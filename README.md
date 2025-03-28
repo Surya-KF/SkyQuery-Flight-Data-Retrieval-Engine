@@ -1,4 +1,4 @@
-# Problem 1: Airline Call Center - Two-Agent System with Function Calling & Structured Output
+# SkyQuery- Two-Agent RAG System for Flight Information
 
 ## Overview
 This project implements a collaborative AI system for airline flight information using two specialized agents:
