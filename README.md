@@ -1,4 +1,4 @@
-# SkyQuery- Two-Agent RAG System for Flight Information
+# SkyQuery: Two-Agent RAG System for Flight Information
 
 ## Overview
 This project implements a collaborative AI system for airline flight information using two specialized agents:
@@ -27,10 +27,11 @@ The system demonstrates:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Surya-KF/SkyQuery-Flight-Data-Retrieval-Engine.git
+
 ```
 ```bash
-cd problem1
+cd SkyQuery-Flight-Data-Retrieval-Engine
 ```
 
 2. Create and activate a virtual environment:
